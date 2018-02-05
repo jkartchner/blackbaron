@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BlackBaron>
+  <SysCount>5</SysCount>
+  <System SysName="Nintendo">
+    <FilePath>C:\Users\Jake\Saved Games\Emulators\NES\nestopia.exe</FilePath>
+    <RomPath>C:\Users\Jake\Saved Games\Emulators\Stored Roms\NES\</RomPath>
+    <RomCount>2</RomCount>
+    <Rom RomName="Castlevania 3 - Dracula's Curse (U).nes">
+      <Name>Castlevania 3 - Dracula's Curse (U).nes</Name>
+      <Alias>Castlevania III: Dracula's Curse</Alias>
+      <Count>0</Count>
+      <Description>Released in 1990 by Konami. In this prequel to the original Castlevania, you control Simon Belmont's great grandfather Trevor on his quest to rid the land of the vile Count Dracula. </Description>
+      <ScreenshotFilePath>Screenshots//Castlevania III Dracula's Curse Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\NES\Castlevania 3 - Dracula's Curse (U).nes</Path>
+    </Rom>
+    <Rom RomName="Super Mario 14 [p1].nes">
+      <Name>Super Mario 14 [p1].nes</Name>
+      <Alias>Mario Hack</Alias>
+      <Count>1</Count>
+      <Description>
+      </Description>
+      <ScreenshotFilePath>
+      </ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\NES\Super Mario 14 [p1].nes</Path>
+    </Rom>
+  </System>
+  <System SysName="Super Nintendo">
+    <FilePath>C:\Users\Jake\Saved Games\Emulators\ZSNES--SNES\zsnesw.exe</FilePath>
+    <RomPath>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\</RomPath>
+    <RomCount>14</RomCount>
+    <Rom RomName="Act Raiser.smc">
+      <Name>Act Raiser.smc</Name>
+      <Alias>ActRaiser</Alias>
+      <Count>0</Count>
+      <Description>You are the Master, a benevolent deity who presides over the world. Unfortunately, the world has fallen on tough times. One part sim-city, one part hack-n-slash. Also the music rocks.</Description>
+      <ScreenshotFilePath>Screenshots/ActRaiserScreen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\Act Raiser.smc</Path>
+    </Rom>
+    <Rom RomName="Breath of Fire II.smc">
+      <Name>Breath of Fire II.smc</Name>
+      <Alias>Breath of Fire II</Alias>
+      <Count>1</Count>
+      <Description>With an infinitely better story and more balanced gameplay when compared to the first, BOF II proves Capcom can make good RPGs when they feel like it.</Description>
+      <ScreenshotFilePath>Screenshots//Breath of Fire II</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\Breath of Fire II.smc</Path>
+    </Rom>
+    <Rom RomName="Chrono Trigger (U) [!].smc">
+      <Name>Chrono Trigger (U) [!].smc</Name>
+      <Alias>Chrono Trigger</Alias>
+      <Count>2</Count>
+      <Description>With a taut story, satisfying gameplay, and music by legends Yasunori Mitsuda and ...Nobuo Uematsu, Chrono fans come back to this 1995 release again and again.</Description>
+      <ScreenshotFilePath>ChronoTriggerScreenshot</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\Chrono Trigger (U) [!].smc</Path>
+    </Rom>
+    <Rom RomName="Contra III - The Alien Wars (U).smc">
+      <Name>Contra III - The Alien Wars (U).smc</Name>
+      <Alias>Contra III</Alias>
+      <Count>3</Count>
+      <Description>This game is proof that kids these days are spoiled little babies. Ten minutes with this game and they'll cry themselves back to Heavently Sword and Halo 3.</Description>
+      <ScreenshotFilePath>Screenshots//ContraIIIScreen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\Contra III - The Alien Wars (U).smc</Path>
+    </Rom>
+    <Rom RomName="Donkey Kong Country (E) (V1.1) [!].smc">
+      <Name>Donkey Kong Country (E) (V1.1) [!].smc</Name>
+      <Alias>Donkey Kong Country</Alias>
+      <Count>4</Count>
+      <Description>DK had his banana stash ganked. And he doesn't take that from anyone. Diddy goes with. DK Country is some of the best 2.5d platforming around--a personal favorite.</Description>
+      <ScreenshotFilePath>Screenshots//DonkeyKongCountryScreen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\Donkey Kong Country (E) (V1.1) [!].smc</Path>
+    </Rom>
+    <Rom RomName="Donkey Kong Country 2 - Diddy's Kong Quest.smc">
+      <Name>Donkey Kong Country 2 - Diddy's Kong Quest.smc</Name>
+      <Alias>Donkey Kong Country II</Alias>
+      <Count>5</Count>
+      <Description>The evil K. Rool and his Kremling army are back, and this time they've kidnapped Donkey Kong! Diddy, Candy, and platforming goodness make this a personal favorite.</Description>
+      <ScreenshotFilePath>Screenshots//DonkeyKongCountryIIScreen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\Donkey Kong Country 2 - Diddy's Kong Quest.smc</Path>
+    </Rom>
+    <Rom RomName="Earthbound.smc">
+      <Name>Earthbound.smc</Name>
+      <Alias>Earthbound</Alias>
+      <Count>6</Count>
+      <Description>Earthbound is a classic, even though it flopped when it first hit American shelves, being as unconventional as it is. In spite of a weird story and unimpressive graphics, this game is somehow highly addictive.</Description>
+      <ScreenshotFilePath>Screenshots/EarthboundScreen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\Earthbound.smc</Path>
+    </Rom>
+    <Rom RomName="Final Fantasy III.smc">
+      <Name>Final Fantasy III.smc</Name>
+      <Alias>Final Fantasy III (VI)</Alias>
+      <Count>7</Count>
+      <Description>Easily one of the best three RPGs for the Super Nintendo. And yes, this is really Final Fantasy VI.</Description>
+      <ScreenshotFilePath>Screenshots/FFIIIScreen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\Final Fantasy III.smc</Path>
+    </Rom>
+    <Rom RomName="Legend of Zelda, The - A Link to the Past (U) [!].smc">
+      <Name>Legend of Zelda, The - A Link to the Past (U) [!].smc</Name>
+      <Alias>Link to the Past</Alias>
+      <Count>8</Count>
+      <Description>Originally planned as a Nintendo sequel in 1988, this Zelda title was brought to the Super Nintendo in 1992 with the North American release. The name of the title was changed for the American title to exclude any religious content found in the original.</Description>
+      <ScreenshotFilePath>LinktothePastScreenshot</ScreenshotFilePath>
+      <PhotoFilePath>Link Sprites</PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\Legend of Zelda, The - A Link to the Past (U) [!].smc</Path>
+    </Rom>
+    <Rom RomName="Mega Man X (E).smc">
+      <Name>Mega Man X (E).smc</Name>
+      <Alias>Mega Man X</Alias>
+      <Count>9</Count>
+      <Description>You gotta give it up for Mega Man X; it was the first Mega Man to have an actual plot. Not only that but it was just as fun as the earlier games. . .maybe moreso.</Description>
+      <ScreenshotFilePath>Screenshots/MegaManXScreen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\Mega Man X (E).smc</Path>
+    </Rom>
+    <Rom RomName="Secret of Mana (U).smc">
+      <Name>Secret of Mana (U).smc</Name>
+      <Alias>Secret of Mana</Alias>
+      <Count>10</Count>
+      <Description>I don't care what other people say. This is a great game, even if it's not the prequel to Secret of Evermore.</Description>
+      <ScreenshotFilePath>Screenshots/SOManaScreen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\Secret of Mana (U).smc</Path>
+    </Rom>
+    <Rom RomName="Super Castlevania IV (E) [!].smc">
+      <Name>Super Castlevania IV (E) [!].smc</Name>
+      <Alias>Super Castlevania</Alias>
+      <Count>11</Count>
+      <Description>Released in 1991, this title offered several improvements to the original titles without changing gamestyle drastically. Changes from the japanese game to the NA release include redrawing topless statues, excluding religious content, and omitting Engrishisms.</Description>
+      <ScreenshotFilePath>Super_Castlevania_IV_USA</ScreenshotFilePath>
+      <PhotoFilePath>SimonSprite</PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\Super Castlevania IV (E) [!].smc</Path>
+    </Rom>
+    <Rom RomName="Super Mario World.smc">
+      <Name>Super Mario World.smc</Name>
+      <Alias>Super Mario World</Alias>
+      <Count>12</Count>
+      <Description>On a vacation to Dinosaur Island, the princess is *gasp* abducted. Mario and Luigi with help from newcomer Yoshi spring to the rescue. High class 2d sidescrolling at its best.</Description>
+      <ScreenshotFilePath>Screenshots/SuperMariaWorldScreen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\Super Mario World.smc</Path>
+    </Rom>
+    <Rom RomName="Super Metroid.smc">
+      <Name>Super Metroid.smc</Name>
+      <Alias>Super Metroid</Alias>
+      <Count>13</Count>
+      <Description>Samus is back, hunting through Ridley's old pirate base. The eerie feel and predictable gameplay make Super Metroid one of the best on the Super Nintendo. This 1994 release inspired the Metroidvania franchise.</Description>
+      <ScreenshotFilePath>Screenshots/SuperMetroidScreen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\SNES\Base\Super Metroid.smc</Path>
+    </Rom>
+  </System>
+  <System SysName="Genesis">
+    <FilePath>C:\Users\Jake\Saved Games\Emulators\Fusion36--Genesis\Fusion.exe</FilePath>
+    <RomPath>C:\Users\Jake\Saved Games\Emulators\Stored Roms\Genesis\Aladdin (E) [!]\</RomPath>
+    <RomCount>3</RomCount>
+    <Rom RomName="Aladdin (E) [!].bin">
+      <Name>Aladdin (E) [!].bin</Name>
+      <Alias>Aladdin</Alias>
+      <Count>0</Count>
+      <Description>Yessir, we've had ourselves in service! You're the boss, the king, the shah! Say what you wish; it's yours, true dish! How 'bout a li'l mo' baclava?!</Description>
+      <ScreenshotFilePath>Screenshots/AladdinGenesis</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\Genesis\Aladdin (E) [!]\Aladdin (E) [!].bin</Path>
+    </Rom>
+    <Rom RomName="Rocket Knight Adventures (E).bin">
+      <Name>Rocket Knight Adventures (E).bin</Name>
+      <Alias>Rocket Knight Adventures</Alias>
+      <Count>1</Count>
+      <Description>Rockets and Knights. And some Adventures.</Description>
+      <ScreenshotFilePath>Screenshots/RocketKnightScreen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\Genesis\Aladdin (E) [!]\Rocket Knight Adventures (E).bin</Path>
+    </Rom>
+    <Rom RomName="Sonic and Knuckles &amp; Sonic 2 (JUE) [f1].bin">
+      <Name>Sonic and Knuckles &amp; Sonic 2 (JUE) [f1].bin</Name>
+      <Alias>Sonic and Knuckles 2</Alias>
+      <Count>2</Count>
+      <Description>Vroooooooooom!!!!!!</Description>
+      <ScreenshotFilePath>SandKn2Screen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\Genesis\Aladdin (E) [!]\Sonic and Knuckles &amp; Sonic 2 (JUE) [f1].bin</Path>
+    </Rom>
+  </System>
+  <System SysName="Atari 2600">
+    <FilePath>C:\Users\Jake\Saved Games\Emulators\Stella\Stella.exe</FilePath>
+    <RomPath>C:\Users\Jake\Saved Games\Emulators\Stored Roms\Atari2600\</RomPath>
+    <RomCount>1</RomCount>
+    <Rom RomName="ASTEROID.BIN">
+      <Name>ASTEROID.BIN</Name>
+      <Alias>Asteroid</Alias>
+      <Count>0</Count>
+      <Description>
+      </Description>
+      <ScreenshotFilePath>
+      </ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\Stored Roms\Atari2600\ASTEROID.BIN</Path>
+    </Rom>
+  </System>
+  <System SysName="MAME">
+    <FilePath>C:\Users\Jake\Saved Games\Emulators\MAYM!\mameuifx32.exe</FilePath>
+    <RomPath>C:\Users\Jake\Saved Games\Emulators\MAYM!\roms\</RomPath>
+    <RomCount>5</RomCount>
+    <Rom RomName="elvactr.zip">
+      <Name>elvactr.zip</Name>
+      <Alias>Elevator Action</Alias>
+      <Count>0</Count>
+      <Description>Up and down. Don't get hit!</Description>
+      <ScreenshotFilePath>ElevatorActionScreen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\MAYM!\roms\elvactr.zip</Path>
+    </Rom>
+    <Rom RomName="esprade.zip">
+      <Name>esprade.zip</Name>
+      <Alias>E.S.P.Rade</Alias>
+      <Count>1</Count>
+      <Description>High school mind melters who fly and shoot psychbeams. What more could you want?</Description>
+      <ScreenshotFilePath>ESPRadeScreen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\MAYM!\roms\esprade.zip</Path>
+    </Rom>
+    <Rom RomName="gunbird2.zip">
+      <Name>gunbird2.zip</Name>
+      <Alias>Gunbird 2</Alias>
+      <Count>2</Count>
+      <Description>Through gameplay cutscenes (and endings) it appears that the zany, uproarious (and at times rather adult) humor is considerably increased since the original Gunbird. The game has numerous similarities to the Parodius series.</Description>
+      <ScreenshotFilePath>Screenshots/GB2Screen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\MAYM!\roms\gunbird2.zip</Path>
+    </Rom>
+    <Rom RomName="rsgun.zip">
+      <Name>rsgun.zip</Name>
+      <Alias>Gunbird 2</Alias>
+      <Count>3</Count>
+      <Description>Through gameplay cutscenes (and endings) it appears that the zany, uproarious (and at times rather adult) humor is considerably increased since the original Gunbird. The game has numerous similarities to the Parodius series.</Description>
+      <ScreenshotFilePath>Screenshots/GB2Screen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\MAYM!\roms\rsgun.zip</Path>
+    </Rom>
+    <Rom RomName="varth.zip">
+      <Name>varth.zip</Name>
+      <Alias>Varth</Alias>
+      <Count>4</Count>
+      <Description>Old school arcade.</Description>
+      <ScreenshotFilePath>VarthScreen</ScreenshotFilePath>
+      <PhotoFilePath>
+      </PhotoFilePath>
+      <Path>C:\Users\Jake\Saved Games\Emulators\MAYM!\roms\varth.zip</Path>
+    </Rom>
+  </System>
+</BlackBaron>

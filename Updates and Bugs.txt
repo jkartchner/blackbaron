@@ -1,0 +1,24 @@
+Known Bugs:
+
+If a user unplugs their pc controller after the program started, global crash.
+MAME arcade implementation is still weak. High probability of global crash.
+On the emulation data collection form, misclicks around the listboxes will cause form crashes.
+Lots of empty menu items (delete rom, add rom, etc.)
+
+Plans:
+
+Add more emulation support through command line args--research controller mapping in the command line for each console
+Work out Atari 2600 emulation
+Work out Nintendo emulation
+Add more cartridge-based systems, n64, Master, etc.
+Fill out a lot more of the database for each system (I have about 10-25 for Genesis, SNES, and NES only right now)
+Fix GUI. Get some professional design help.
+Cut out sprites for a lot of those things in the databases
+Add animation for sprites
+Maybe write an auto-updater (find web space) to prevent constant reinstallations
+
+Distant Plans:
+
+Support ISO-based and CD-based systems, playstation, Saturn, PS2, Dreamcast, GameCube, etc.
+Expand databases to include most roms on all systems
+Include encryption and compression to keep data safer and try to keep app size down

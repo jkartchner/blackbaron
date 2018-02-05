@@ -1,0 +1,122 @@
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\menuFont.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\ChronoTriggerScreenshot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Link Sprites.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\LinktothePastScreenshot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\SimonSprite.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Super_Castlevania_IV_USA.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\questionmark.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\AladdinSNESScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\ElevatorActionScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\ESPRadeScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\SandKn2Screen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\VarthScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\1941Screen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\BatGarregaScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\GB2Screen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Base Wars Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Battletoads Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Bubble Bobble Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Castlevania III Dracula's Curse Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Castlevania Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Contra Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Crystalis Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Dragon Warrior 3 Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Duck Hunt Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\DuckTales Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Final Fantasy Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Legend of Zelda Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Maniac Mansion Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Mega Man 2 Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Mega Man 3 Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Mega Man Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Metal Gear Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Metroid Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Mike Tyson's Punch Out Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Ninja Gaiden Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\River City Ransom Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Shadowgate Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Star Tropics Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Super Mario Brothers 2 Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Super Mario Brothers 3 Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Super Mario Brothers Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Teenage Mutant Ninja Turtles 2.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Tetris Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Zelda 2 Screen Shot.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Systems\Atari.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Systems\GenesisLogo.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Systems\MAMELogo.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Systems\NintendoLogo.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Systems\SuperNintendoLogo.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\ActRaiserScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\EarthboundScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\FFIIIScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\FFIIScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\FrontMissionGunHazardScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\FrontMissionScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\gigawingScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\GradiusIIIScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\MegaManXScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\RocketKnightScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\SOManaScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\SonicWingsLimitedScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\StreetFighterIITurbyHyperFightingScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\SuperMariaWorldScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\SuperMetroidScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\SupMarioRPGScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\xexexScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Arrow_green.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\BlackBaron.exe.config
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\BlackBaron.exe
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\BlackBaron.pdb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Soopah.Xna.Input.dll
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\obj\x86\Release\BlackBaron.Form1.resources
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\obj\x86\Release\BlackBaron.csproj.GenerateResource.Cache
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\obj\x86\Release\BlackBaron.exe
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\obj\x86\Release\BlackBaron.pdb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\WhiteTriangleArrow.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\AladdinGenesis.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\Breath of Fire II.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\ContraIIIScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\DonkeyKongCountryIIScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\DonkeyKongCountryScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\StarFoxScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\SuperMarioKartScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Screenshots\SuperMarioWorldIIScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\menuFontEnlarged.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\LogoFont.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\LogoFontReduced.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\FadeToBlackScreen.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\BBLogo.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Water.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\LensFlare1.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\LensFlare2.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\LensFlare3.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\LensFlareSource.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\BloomImage.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Snow.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Flame1.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Flame2.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Flame3.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Controller.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Keyboard.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\Grain.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\smoke.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\FancyLogo.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\HatchOverlay.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\SuperNintendoController.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\NintendoController.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\GenesisController.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\InverseGlow.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\BloomExtract.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\BloomCombine.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\GaussianBlur.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\transition_organic_whoosh.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\guitarchord.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\airwhoosh.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\ui_pop.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\music_lounge.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\FireCrackle.xnb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\music_lounge.wma
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Release\Content\FireCrackle.wma

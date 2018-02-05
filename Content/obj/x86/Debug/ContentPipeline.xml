@@ -1,0 +1,1033 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>menuFont.spritefont</Source>
+      <Name>menuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\menuFont.xnb</Output>
+      <Time>2010-02-23T22:17:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menuFontEnlarged.spritefont</Source>
+      <Name>menuFontEnlarged</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\menuFontEnlarged.xnb</Output>
+      <Time>2010-10-08T14:42:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LogoFont.spritefont</Source>
+      <Name>LogoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\LogoFont.xnb</Output>
+      <Time>2010-10-15T20:16:55-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LogoFontReduced.spritefont</Source>
+      <Name>LogoFontReduced</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\LogoFontReduced.xnb</Output>
+      <Time>2010-10-15T20:19:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ChronoTriggerScreenshot.PNG</Source>
+      <Name>ChronoTriggerScreenshot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\ChronoTriggerScreenshot.xnb</Output>
+      <Time>2010-03-03T21:16:15-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Link Sprites.PNG</Source>
+      <Name>Link Sprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Link Sprites.xnb</Output>
+      <Time>2010-03-03T21:16:41-05:00</Time>
+    </Item>
+    <Item>
+      <Source>LinktothePastScreenshot.jpg</Source>
+      <Name>LinktothePastScreenshot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\LinktothePastScreenshot.xnb</Output>
+      <Time>2010-03-03T21:16:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SimonSprite.PNG</Source>
+      <Name>SimonSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\SimonSprite.xnb</Output>
+      <Time>2010-03-03T21:17:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Super_Castlevania_IV_USA.jpg</Source>
+      <Name>Super_Castlevania_IV_USA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Super_Castlevania_IV_USA.xnb</Output>
+      <Time>2010-03-03T21:17:25-05:00</Time>
+    </Item>
+    <Item>
+      <Source>questionmark.jpg</Source>
+      <Name>questionmark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\questionmark.xnb</Output>
+      <Time>2010-03-03T22:29:31-05:00</Time>
+    </Item>
+    <Item>
+      <Source>AladdinSNESScreen.jpg</Source>
+      <Name>AladdinSNESScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\AladdinSNESScreen.xnb</Output>
+      <Time>2010-03-04T03:58:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ElevatorActionScreen.png</Source>
+      <Name>ElevatorActionScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\ElevatorActionScreen.xnb</Output>
+      <Time>2010-03-04T03:58:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ESPRadeScreen.png</Source>
+      <Name>ESPRadeScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\ESPRadeScreen.xnb</Output>
+      <Time>2010-03-04T03:58:47-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SandKn2Screen.png</Source>
+      <Name>SandKn2Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\SandKn2Screen.xnb</Output>
+      <Time>2010-03-04T03:58:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>VarthScreen.png</Source>
+      <Name>VarthScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\VarthScreen.xnb</Output>
+      <Time>2010-03-04T03:59:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\1941Screen.png</Source>
+      <Name>Screenshots\1941Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\1941Screen.xnb</Output>
+      <Time>2010-03-05T16:25:27-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\BatGarregaScreen.jpg</Source>
+      <Name>Screenshots\BatGarregaScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\BatGarregaScreen.xnb</Output>
+      <Time>2010-03-05T16:25:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\GB2Screen.jpg</Source>
+      <Name>Screenshots\GB2Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\GB2Screen.xnb</Output>
+      <Time>2010-03-05T16:26:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Base Wars Screen Shot.png</Source>
+      <Name>Screenshots\Base Wars Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Base Wars Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:27:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Battletoads Screen Shot.png</Source>
+      <Name>Screenshots\Battletoads Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Battletoads Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:27:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Bubble Bobble Screen Shot.png</Source>
+      <Name>Screenshots\Bubble Bobble Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Bubble Bobble Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:27:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Castlevania III Dracula's Curse Screen Shot.png</Source>
+      <Name>Screenshots\Castlevania III Dracula's Curse Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Castlevania III Dracula's Curse Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:27:33-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Castlevania Screen Shot.png</Source>
+      <Name>Screenshots\Castlevania Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Castlevania Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:27:37-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Contra Screen Shot.png</Source>
+      <Name>Screenshots\Contra Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Contra Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:27:41-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Crystalis Screen Shot.png</Source>
+      <Name>Screenshots\Crystalis Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Crystalis Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:27:45-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Dragon Warrior 3 Screen Shot.png</Source>
+      <Name>Screenshots\Dragon Warrior 3 Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Dragon Warrior 3 Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:27:49-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Duck Hunt Screen Shot.png</Source>
+      <Name>Screenshots\Duck Hunt Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Duck Hunt Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:27:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\DuckTales Screen Shot.png</Source>
+      <Name>Screenshots\DuckTales Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\DuckTales Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:27:59-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Final Fantasy Screen Shot.png</Source>
+      <Name>Screenshots\Final Fantasy Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Final Fantasy Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:28:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Legend of Zelda Screen Shot.png</Source>
+      <Name>Screenshots\Legend of Zelda Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Legend of Zelda Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:28:45-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Maniac Mansion Screen Shot.png</Source>
+      <Name>Screenshots\Maniac Mansion Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Maniac Mansion Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:28:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Mega Man 2 Screen Shot.png</Source>
+      <Name>Screenshots\Mega Man 2 Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Mega Man 2 Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:28:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Mega Man 3 Screen Shot.png</Source>
+      <Name>Screenshots\Mega Man 3 Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Mega Man 3 Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:29:05-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Mega Man Screen Shot.png</Source>
+      <Name>Screenshots\Mega Man Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Mega Man Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:29:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Metal Gear Screen Shot.png</Source>
+      <Name>Screenshots\Metal Gear Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Metal Gear Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:29:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Metroid Screen Shot.png</Source>
+      <Name>Screenshots\Metroid Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Metroid Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:29:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Mike Tyson's Punch Out Screen Shot.png</Source>
+      <Name>Screenshots\Mike Tyson's Punch Out Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Mike Tyson's Punch Out Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:29:29-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Ninja Gaiden Screen Shot.png</Source>
+      <Name>Screenshots\Ninja Gaiden Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Ninja Gaiden Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:29:37-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\River City Ransom Screen Shot.png</Source>
+      <Name>Screenshots\River City Ransom Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\River City Ransom Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:29:43-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Shadowgate Screen Shot.png</Source>
+      <Name>Screenshots\Shadowgate Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Shadowgate Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:29:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Star Tropics Screen Shot.png</Source>
+      <Name>Screenshots\Star Tropics Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Star Tropics Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:30:01-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Super Mario Brothers 2 Screen Shot.png</Source>
+      <Name>Screenshots\Super Mario Brothers 2 Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Super Mario Brothers 2 Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:30:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Super Mario Brothers 3 Screen Shot.png</Source>
+      <Name>Screenshots\Super Mario Brothers 3 Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Super Mario Brothers 3 Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:30:17-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Super Mario Brothers Screen Shot.png</Source>
+      <Name>Screenshots\Super Mario Brothers Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Super Mario Brothers Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:30:23-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Teenage Mutant Ninja Turtles 2.png</Source>
+      <Name>Screenshots\Teenage Mutant Ninja Turtles 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Teenage Mutant Ninja Turtles 2.xnb</Output>
+      <Time>2010-03-05T16:30:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Tetris Screen Shot.png</Source>
+      <Name>Screenshots\Tetris Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Tetris Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:30:35-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Zelda 2 Screen Shot.png</Source>
+      <Name>Screenshots\Zelda 2 Screen Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Zelda 2 Screen Shot.xnb</Output>
+      <Time>2010-03-05T16:30:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Systems\MAMELogo.png</Source>
+      <Name>Systems\MAMELogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Systems\MAMELogo.xnb</Output>
+      <Time>2010-03-05T16:32:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Systems\SuperNintendoLogo.png</Source>
+      <Name>Systems\SuperNintendoLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Systems\SuperNintendoLogo.xnb</Output>
+      <Time>2010-03-05T16:32:37-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\ActRaiserScreen.png</Source>
+      <Name>Screenshots\ActRaiserScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\ActRaiserScreen.xnb</Output>
+      <Time>2010-03-05T16:33:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\EarthboundScreen.png</Source>
+      <Name>Screenshots\EarthboundScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\EarthboundScreen.xnb</Output>
+      <Time>2010-03-05T16:35:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\FFIIIScreen.png</Source>
+      <Name>Screenshots\FFIIIScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\FFIIIScreen.xnb</Output>
+      <Time>2010-03-05T16:35:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\FFIIScreen.png</Source>
+      <Name>Screenshots\FFIIScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\FFIIScreen.xnb</Output>
+      <Time>2010-03-05T16:35:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\FrontMissionGunHazardScreen.png</Source>
+      <Name>Screenshots\FrontMissionGunHazardScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\FrontMissionGunHazardScreen.xnb</Output>
+      <Time>2010-03-05T16:35:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\FrontMissionScreen.jpg</Source>
+      <Name>Screenshots\FrontMissionScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\FrontMissionScreen.xnb</Output>
+      <Time>2010-03-05T16:35:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\gigawingScreen.png</Source>
+      <Name>Screenshots\gigawingScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\gigawingScreen.xnb</Output>
+      <Time>2010-03-05T16:35:23-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\GradiusIIIScreen.png</Source>
+      <Name>Screenshots\GradiusIIIScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\GradiusIIIScreen.xnb</Output>
+      <Time>2010-03-05T16:35:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\MegaManXScreen.png</Source>
+      <Name>Screenshots\MegaManXScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\MegaManXScreen.xnb</Output>
+      <Time>2010-03-05T16:35:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\RocketKnightScreen.jpg</Source>
+      <Name>Screenshots\RocketKnightScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\RocketKnightScreen.xnb</Output>
+      <Time>2010-03-05T16:35:37-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\SOManaScreen.png</Source>
+      <Name>Screenshots\SOManaScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\SOManaScreen.xnb</Output>
+      <Time>2010-03-05T16:35:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\SonicWingsLimitedScreen.png</Source>
+      <Name>Screenshots\SonicWingsLimitedScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\SonicWingsLimitedScreen.xnb</Output>
+      <Time>2010-03-05T16:35:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\StreetFighterIITurbyHyperFightingScreen.png</Source>
+      <Name>Screenshots\StreetFighterIITurbyHyperFightingScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\StreetFighterIITurbyHyperFightingScreen.xnb</Output>
+      <Time>2010-03-05T16:35:55-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\SuperMariaWorldScreen.png</Source>
+      <Name>Screenshots\SuperMariaWorldScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\SuperMariaWorldScreen.xnb</Output>
+      <Time>2010-03-05T16:36:01-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\SuperMetroidScreen.png</Source>
+      <Name>Screenshots\SuperMetroidScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\SuperMetroidScreen.xnb</Output>
+      <Time>2010-03-05T16:36:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\SupMarioRPGScreen.png</Source>
+      <Name>Screenshots\SupMarioRPGScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\SupMarioRPGScreen.xnb</Output>
+      <Time>2010-03-05T16:36:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\xexexScreen.png</Source>
+      <Name>Screenshots\xexexScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\xexexScreen.xnb</Output>
+      <Time>2010-03-05T16:36:21-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Arrow_green.png</Source>
+      <Name>Arrow_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Arrow_green.xnb</Output>
+      <Time>2010-03-05T22:44:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>WhiteTriangleArrow.png</Source>
+      <Name>WhiteTriangleArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\WhiteTriangleArrow.xnb</Output>
+      <Time>2010-03-07T17:15:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\AladdinGenesis.jpg</Source>
+      <Name>Screenshots\AladdinGenesis</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\AladdinGenesis.xnb</Output>
+      <Time>2010-03-07T18:29:43-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\Breath of Fire II.png</Source>
+      <Name>Screenshots\Breath of Fire II</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\Breath of Fire II.xnb</Output>
+      <Time>2010-03-07T20:22:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\ContraIIIScreen.png</Source>
+      <Name>Screenshots\ContraIIIScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\ContraIIIScreen.xnb</Output>
+      <Time>2010-03-07T20:22:41-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\DonkeyKongCountryIIScreen.png</Source>
+      <Name>Screenshots\DonkeyKongCountryIIScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\DonkeyKongCountryIIScreen.xnb</Output>
+      <Time>2010-03-07T20:22:45-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\DonkeyKongCountryScreen.png</Source>
+      <Name>Screenshots\DonkeyKongCountryScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\DonkeyKongCountryScreen.xnb</Output>
+      <Time>2010-03-07T20:22:49-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\StarFoxScreen.png</Source>
+      <Name>Screenshots\StarFoxScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\StarFoxScreen.xnb</Output>
+      <Time>2010-03-07T20:22:53-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\SuperMarioKartScreen.png</Source>
+      <Name>Screenshots\SuperMarioKartScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\SuperMarioKartScreen.xnb</Output>
+      <Time>2010-03-07T20:22:57-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screenshots\SuperMarioWorldIIScreen.png</Source>
+      <Name>Screenshots\SuperMarioWorldIIScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Screenshots\SuperMarioWorldIIScreen.xnb</Output>
+      <Time>2010-03-07T20:23:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>FadeToBlackScreen.jpg</Source>
+      <Name>FadeToBlackScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\FadeToBlackScreen.xnb</Output>
+      <Time>2010-10-15T13:26:19-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BBLogo.jpg</Source>
+      <Name>BBLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\BBLogo.xnb</Output>
+      <Time>2010-10-15T19:45:27-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Systems\Atari.png</Source>
+      <Name>Systems\Atari</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Systems\Atari.xnb</Output>
+      <Time>2010-10-15T21:23:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Systems\GenesisLogo.png</Source>
+      <Name>Systems\GenesisLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Systems\GenesisLogo.xnb</Output>
+      <Time>2010-10-15T21:14:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Systems\NintendoLogo.png</Source>
+      <Name>Systems\NintendoLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Systems\NintendoLogo.xnb</Output>
+      <Time>2010-10-15T21:07:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Water.png</Source>
+      <Name>Water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Water.xnb</Output>
+      <Time>2010-10-16T01:02:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LensFlare1.jpg</Source>
+      <Name>LensFlare1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\LensFlare1.xnb</Output>
+      <Time>2010-10-17T23:40:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LensFlare2.jpg</Source>
+      <Name>LensFlare2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\LensFlare2.xnb</Output>
+      <Time>2010-10-17T23:40:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LensFlare3.jpg</Source>
+      <Name>LensFlare3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\LensFlare3.xnb</Output>
+      <Time>2010-10-17T23:40:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LensFlareSource.jpg</Source>
+      <Name>LensFlareSource</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\LensFlareSource.xnb</Output>
+      <Time>2010-10-17T23:40:35-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomImage.jpg</Source>
+      <Name>BloomImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\BloomImage.xnb</Output>
+      <Time>2010-10-18T03:02:33-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Snow.jpg</Source>
+      <Name>Snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Snow.xnb</Output>
+      <Time>2010-10-24T04:05:37-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Flame1.png</Source>
+      <Name>Flame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Flame1.xnb</Output>
+      <Time>2010-10-24T20:39:03-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Flame2.png</Source>
+      <Name>Flame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Flame2.xnb</Output>
+      <Time>2010-10-24T20:39:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Flame3.png</Source>
+      <Name>Flame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Flame3.xnb</Output>
+      <Time>2010-10-24T20:39:13-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Controller.jpg</Source>
+      <Name>Controller</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Controller.xnb</Output>
+      <Time>2010-10-24T23:17:59-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyboard.jpg</Source>
+      <Name>Keyboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Keyboard.xnb</Output>
+      <Time>2010-10-24T23:18:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Grain.jpg</Source>
+      <Name>Grain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\Grain.xnb</Output>
+      <Time>2010-10-30T21:03:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke.png</Source>
+      <Name>smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\smoke.xnb</Output>
+      <Time>2010-10-31T00:26:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FancyLogo.jpg</Source>
+      <Name>FancyLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\FancyLogo.xnb</Output>
+      <Time>2010-11-06T00:17:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>HatchOverlay.png</Source>
+      <Name>HatchOverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\HatchOverlay.xnb</Output>
+      <Time>2010-11-05T00:25:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SuperNintendoController.jpg</Source>
+      <Name>SuperNintendoController</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\SuperNintendoController.xnb</Output>
+      <Time>2010-11-06T05:04:53-04:00</Time>
+    </Item>
+    <Item>
+      <Source>NintendoController.jpg</Source>
+      <Name>NintendoController</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\NintendoController.xnb</Output>
+      <Time>2010-11-06T05:05:03-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GenesisController.jpg</Source>
+      <Name>GenesisController</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\GenesisController.xnb</Output>
+      <Time>2010-11-06T13:31:13-04:00</Time>
+    </Item>
+    <Item>
+      <Source>InverseGlow.fx</Source>
+      <Name>InverseGlow</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\InverseGlow.xnb</Output>
+      <Time>2010-11-05T01:50:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomExtract.fx</Source>
+      <Name>BloomExtract</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\BloomExtract.xnb</Output>
+      <Time>2010-03-28T01:31:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomCombine.fx</Source>
+      <Name>BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\BloomCombine.xnb</Output>
+      <Time>2010-03-28T01:31:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GaussianBlur.fx</Source>
+      <Name>GaussianBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\GaussianBlur.xnb</Output>
+      <Time>2010-03-28T01:31:53-04:00</Time>
+    </Item>
+    <Item>
+      <Source>transition_organic_whoosh.wav</Source>
+      <Name>transition_organic_whoosh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\transition_organic_whoosh.xnb</Output>
+      <Time>2010-10-15T21:48:39-04:00</Time>
+    </Item>
+    <Item>
+      <Source>guitarchord.wav</Source>
+      <Name>guitarchord</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\guitarchord.xnb</Output>
+      <Time>2010-10-18T02:24:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>airwhoosh.wav</Source>
+      <Name>airwhoosh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\airwhoosh.xnb</Output>
+      <Time>2010-11-18T01:06:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_pop.wav</Source>
+      <Name>ui_pop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\ui_pop.xnb</Output>
+      <Time>2010-11-18T01:08:43-05:00</Time>
+    </Item>
+    <Item>
+      <Source>music_lounge.mp3</Source>
+      <Name>music_lounge</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\music_lounge.xnb</Output>
+      <Extra>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\music_lounge.wma</Extra>
+      <Time>2010-10-19T00:17:55-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FireCrackle.mp3</Source>
+      <Name>FireCrackle</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\FireCrackle.xnb</Output>
+      <Extra>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\FireCrackle.wma</Extra>
+      <Time>2010-11-18T00:51:38-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jake\Documents\Visual Studio 2008\Projects\BlackBaron\BlackBaron\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T12:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T12:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T12:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T12:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T12:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-12-20T02:53:33.3140694-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,784 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BlackBaron>
+
+
+  <System SysName="Super Nintendo">
+    <Rom RomName="Link to the Past">
+      <ScreenshotFilePath FilePath="">LinktothePastScreenshot</ScreenshotFilePath>
+    <PhotoFilePath FilePath="">Link Sprites</PhotoFilePath>
+     <Description>Originally planned as a Nintendo sequel in 1988, this Zelda title was brought to the Super Nintendo in 1992 with the North American release. The name of the title was changed for the American title to exclude any religious content found in the original.</Description>
+      <Alias>Zelda</Alias>
+      <Alias>Link</Alias>
+      <Alias>Hyrule</Alias>
+      <Alias>Past</Alias>
+      <Name>Link to the Past</Name>
+    </Rom>
+    <Rom RomName="Super Castlevania">
+     <ScreenshotFilePath FilePath="">Super_Castlevania_IV_USA</ScreenshotFilePath>
+     <PhotoFilePath FilePath="">SimonSprite</PhotoFilePath>
+     <Description>Released in 1991, this title offered several improvements to the original titles without changing gamestyle drastically. Changes from the japanese game to the NA release include redrawing topless statues, excluding religious content, and omitting Engrishisms.</Description>
+      <Alias>Castlevania</Alias>
+      <Alias>IV</Alias>
+      <Alias>Super Castlevania</Alias>
+      <Alias>Simon</Alias>
+      <Name>Super Castlevania</Name>
+    </Rom>
+    <Rom RomName="Chrono Trigger">
+      <ScreenshotFilePath>ChronoTriggerScreenshot</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>With a taut story, satisfying gameplay, and music by legends Yasunori Mitsuda and ...Nobuo Uematsu, Chrono fans come back to this 1995 release again and again.</Description>
+      <Alias>Chrono</Alias>
+      <Alias>Trigger</Alias>
+      <Alias>Luca</Alias>
+      <Alias>RPG</Alias>
+      <Alias>Cross</Alias>
+      <Name>Chrono Trigger</Name>
+    </Rom>
+    <Rom RomName="Super Metroid">
+      <ScreenshotFilePath FilePath="Screenshots/SuperMetroidScreen">Screenshots/SuperMetroidScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Samus is back, hunting through Ridley’s old pirate base. The eerie feel and predictable gameplay make Super Metroid one of the best on the Super Nintendo. This 1994 release inspired the Metroidvania franchise.</Description>
+      <Alias>Super</Alias>
+      <Alias>super</Alias>
+      <Alias>metroid</Alias>
+      <Alias>Metroid</Alias>
+      <Alias>Samus</Alias>
+      <Alias>samus</Alias>
+      <Name>Super Metroid</Name>
+    </Rom>
+    <Rom RomName="Final Fantasy III (VI)">
+      <ScreenshotFilePath FilePath="Screenshots/FFIIIScreen">Screenshots/FFIIIScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Easily one of the best three RPGs for the Super Nintendo. And yes, this is really Final Fantasy VI.</Description>
+      <Alias>finalfantasy</Alias>
+      <Alias>final</Alias>
+      <Alias>fantasy</Alias>
+      <Alias>Final</Alias>
+      <Alias>Fantasy</Alias>
+      <Alias>III</Alias>
+      <Alias>VI</Alias>
+      <Alias>vi</Alias>
+      <Alias>iii</Alias>
+      <Name>Final Fantasy III (VI)</Name>
+    </Rom>
+        <Rom RomName="Super Mario World">
+      <ScreenshotFilePath FilePath="Screenshots/SuperMariaWorldScreen">Screenshots/SuperMariaWorldScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>On a vacation to Dinosaur Island, the princess is *gasp* abducted. Mario and Luigi with help from newcomer Yoshi spring to the rescue. High class 2d sidescrolling at its best.</Description>
+      <Alias>Super</Alias>
+      <Alias>super</Alias>
+      <Alias>Mario</Alias>
+      <Alias>mario</Alias>
+      <Alias>World</Alias>
+      <Alias>world</Alias>
+      <Name>Super Mario World</Name>
+    </Rom>
+    <Rom RomName="Super Mario RPG">
+      <ScreenshotFilePath FilePath="Screenshots/SupMarioRPGScreen">Screenshots/SupMarioRPGScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>An evil blacksmith has split Star Road into seven pieces and launched an attack. Now it’s up to Mario, Bowser, and more to the find the seven star pieces and put a stop to Smithy’s machines and machinations.</Description>
+      <Alias>super</Alias>
+      <Alias>Super</Alias>
+      <Alias>Mario</Alias>
+      <Alias>mario</Alias>
+      <Alias>RPG</Alias>
+      <Alias>rpg</Alias>
+      <Name>Super Mario RPG</Name>
+    </Rom>
+    <Rom RomName="Mega Man X">
+      <ScreenshotFilePath FilePath="Screenshots/MegaManXScreen">Screenshots/MegaManXScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>You gotta give it up for Mega Man X; it was the first Mega Man to have an actual plot. Not only that but it was just as fun as the earlier games. . .maybe moreso.</Description>
+      <Alias>mega</Alias>
+      <Alias>Mega</Alias>
+      <Alias>x</Alias>
+      <Alias>X</Alias>
+      <Name>Mega Man X</Name>
+    </Rom>
+    <Rom RomName="Final Fantasy II (IV)">
+      <ScreenshotFilePath FilePath="Screenshots/FFIIScreen">Screenshots/FFIIScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Cecil, a dark knight, ends up on the moon. Awesome!</Description>
+      <Alias>final</Alias>
+      <Alias>fantasy</Alias>
+      <Alias>ii</Alias>
+      <Alias>II</Alias>
+      <Alias>2</Alias>
+      <Alias>two</Alias>
+      <Name>Final Fantasy II (IV)</Name>
+    </Rom>
+    <Rom RomName="Earthbound">
+      <ScreenshotFilePath FilePath="Screenshots/EarthboundScreen">Screenshots/EarthboundScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Earthbound is a classic, even though it flopped when it first hit American shelves, being as unconventional as it is. In spite of a weird story and unimpressive graphics, this game is somehow highly addictive.</Description>
+      <Alias>earthbound</Alias>
+      <Alias>Earthbound</Alias>
+      <Name>Earthbound</Name>
+    </Rom>
+    <Rom RomName="Street Fighter II Turbo: Hyper Fight">
+      <ScreenshotFilePath FilePath="Screenshots/StreetFighterIITurbyHyperFightingScreen">Screenshots/StreetFighterIITurbyHyperFightingScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Play as one of twelve fighters in this souped up version of Street Fighter II.</Description>
+      <Alias>street</Alias>
+      <Alias>fighter</Alias>
+      <Alias>Fighter</Alias>
+      <Alias>turbo</Alias>
+      <Alias>Turbo</Alias>
+      <Alias>II</Alias>
+      <Alias>ii</Alias>
+      <Alias>hyper</Alias>
+      <Name>Street Fighter II Turbo: Hyper Fight</Name>
+    </Rom>
+    <Rom RomName="Secret of Mana">
+      <ScreenshotFilePath FilePath="Screenshots/SOManaScreen">Screenshots/SOManaScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>I don't care what other people say. This is a great game, even if it's not the prequel to Secret of Evermore.</Description>
+      <Alias>SOM</Alias>
+      <Alias>som</Alias>
+      <Alias>Secret</Alias>
+      <Alias>secret</Alias>
+      <Alias>Mana</Alias>
+      <Alias>mana</Alias>
+      <Name>Secret of Mana</Name>
+    </Rom>
+    <Rom RomName="ActRaiser">
+      <ScreenshotFilePath FilePath="Screenshots/ActRaiserScreen">Screenshots/ActRaiserScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>You are the Master, a benevolent deity who presides over the world. Unfortunately, the world has fallen on tough times. One part sim-city, one part hack-n-slash. Also the music rocks.</Description>
+      <Alias>Act</Alias>
+      <Alias>act</Alias>
+      <Alias>raiser</Alias>
+      <Alias>Raiser</Alias>
+      <Name>ActRaiser</Name>
+    </Rom>
+    <Rom RomName="Gradius III">
+      <ScreenshotFilePath FilePath="Screenshots/GradiusIIIScreen">Screenshots/GradiusIIIScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>With the trusty Vic Viper, the Bacterian Empire is in for it. One major complaint for the SNES version, in spite of the general opinion that it is better than the arcade, is the massive slowdown. Either way, like all Gradii, get ready to have your ass handed to you.</Description>
+      <Alias>gradius</Alias>
+      <Alias>Gradius</Alias>
+      <Name>Gradius III</Name>
+    </Rom>
+    <Rom RomName="Front Mission: Gun Hazard">
+      <ScreenshotFilePath FilePath="Screenshots/FrontMissionGunHazardScreen">Screenshots/FrontMissionGunHazardScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Front Mission except there’s more shooting. And hazards. From guns.</Description>
+      <Alias>Front</Alias>
+      <Alias>Mission</Alias>
+      <Alias>front</Alias>
+      <Alias>mission</Alias>
+      <Alias>Gun</Alias>
+      <Alias>gun</Alias>
+      <Alias>hazard</Alias>
+      <Alias>Hazard</Alias>
+      <Name>Front Mission: Gun Hazard</Name>
+    </Rom>
+    <Rom RomName="Front Mission">
+      <ScreenshotFilePath FilePath="Screenshots/FrontMissionScreen">Screenshots/FrontMissionScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Front mission 5. Play this one to play that one.</Description>
+      <Alias>front</Alias>
+      <Alias>Front</Alias>
+      <Alias>Mission</Alias>
+      <Alias>mission</Alias>
+      <Name>Front Mission</Name>
+    </Rom>
+    <Rom RomName="Castlevania XX">
+      <ScreenshotFilePath FilePath="Screenshots/CastlevaniaXXScreen.">Screenshots/CastlevaniaXXScreen.</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Richter?! Richter! I like playing Maria—where else could you be a little girl rescuing the kidnapped with your animal friends and working your way toward the heart of evil incarnate? . . . . .I need more sleep.</Description>
+      <Alias>Castlevania</Alias>
+      <Alias>castlevania</Alias>
+      <Alias>xx</Alias>
+      <Alias>XX</Alias>
+      <Name>Castlevania XX</Name>
+    </Rom>
+        <Rom RomName="Contra III">
+      <ScreenshotFilePath FilePath="Screenshots//ContraIIIScreen">Screenshots//ContraIIIScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>This game is proof that kids these days are spoiled little babies. Ten minutes with this game and they'll cry themselves back to Heavently Sword and Halo 3.</Description>
+      <Alias>Contra</Alias>
+      <Alias>contra</Alias>
+      <Alias>III</Alias>
+      <Alias>iii</Alias>
+      <Alias>3</Alias>
+      <Alias>Alien</Alias>
+      <Alias>alienwars</Alias>
+      <Name>Contra III</Name>
+    </Rom>
+    <Rom RomName="Super Mario World 2">
+      <ScreenshotFilePath FilePath="Screenshots//SuperMarioWorldIIScreen">Screenshots//SuperMarioWorldIIScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Yoshi's Island has highly stylized graphics. Other than that, there's not much to say other than that it's a great standalone. And it has less to do with the first Super Mario World than with a first-person shooter.</Description>
+      <Alias>Super</Alias>
+      <Alias>super</Alias>
+      <Alias>Mario</Alias>
+      <Alias>mario</Alias>
+      <Alias>world</Alias>
+      <Alias>world</Alias>
+      <Alias>2</Alias>
+      <Alias>II</Alias>
+      <Alias>Yoshi's</Alias>
+      <Alias>yoshi's</Alias>
+      <Alias>Island</Alias>
+      <Alias>island</Alias>
+      <Name>Super Mario World 2</Name>
+    </Rom>
+    <Rom RomName="Donkey Kong Country">
+      <ScreenshotFilePath FilePath="Screenshots//DonkeyKongCountryScreen">Screenshots//DonkeyKongCountryScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>DK had his banana stash ganked. And he doesn't take that from anyone. Diddy goes with. DK Country is some of the best 2.5d platforming around--a personal favorite.</Description>
+      <Alias>Donkey</Alias>
+      <Alias>donkey</Alias>
+      <Alias>Kong</Alias>
+      <Alias>kong</Alias>
+      <Alias>Country</Alias>
+      <Alias>country</Alias>
+      <Name>Donkey Kong Country</Name>
+    </Rom>
+    <Rom RomName="Star Fox">
+      <ScreenshotFilePath FilePath="//Screenshots//StarFoxScreen">Screenshots//StarFoxScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Star Fox's polygonal graphics are made possible by a special Super FX chip built right into the cartridge. Fortunately, lots of emulators seem to accommodate.</Description>
+      <Alias>Star</Alias>
+      <Alias>Fox</Alias>
+      <Alias>star</Alias>
+      <Alias>fox</Alias>
+      <Name>Star Fox</Name>
+    </Rom>
+    <Rom RomName="Super Mario Kart">
+      <ScreenshotFilePath FilePath="//Screenshots//SuperMarioKartScreen">Screenshots//SuperMarioKartScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Mario, Luigi, Princess Peach, Toad, Bowser, Yoshi, Koopa Troopa, and Donkey Kong Jr. race against each other for dominance in Nintendo's famous kart racing game.</Description>
+      <Alias>Super</Alias>
+      <Alias>super</Alias>
+      <Alias>Mario</Alias>
+      <Alias>mario</Alias>
+      <Alias>Kart</Alias>
+      <Alias>kart</Alias>
+      <Name>Super Mario Kart</Name>
+    </Rom>
+    <Rom RomName="Donkey Kong Country II">
+      <ScreenshotFilePath FilePath="//Screenshots//DonkeyKongCountryIIScreen">Screenshots//DonkeyKongCountryIIScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>The evil K. Rool and his Kremling army are back, and this time they've kidnapped Donkey Kong! Diddy, Candy, and platforming goodness make this a personal favorite.</Description>
+      <Alias>Donkey</Alias>
+      <Alias>donkey</Alias>
+      <Alias>Kong</Alias>
+      <Alias>kong</Alias>
+      <Alias>Country</Alias>
+      <Alias>country</Alias>
+      <Alias>II</Alias>
+      <Alias>ii</Alias>
+      <Alias>2</Alias>
+      <Name>Donkey Kong Country II</Name>
+    </Rom>
+    <Rom RomName="Breath of Fire II">
+      <ScreenshotFilePath FilePath="//Screenshots//Breath of Fire II">Screenshots//Breath of Fire II</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>With an infinitely better story and more balanced gameplay when compared to the first, BOF II proves Capcom can make good RPGs when they feel like it.</Description>
+      <Alias>Breath</Alias>
+      <Alias>breath</Alias>
+      <Alias>Fire</Alias>
+      <Alias>fire</Alias>
+      <Alias>II</Alias>
+      <Alias>ii</Alias>
+      <Alias>2</Alias>
+      <Name>Breath of Fire II</Name>
+    </Rom>
+  </System>
+  
+  
+  <System SysName="MAME">
+    <Rom RomName="Varth">
+      <ScreenshotFilePath FilePath="VarthScreen">VarthScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Old school arcade.</Description>
+      <Alias>Varth</Alias>
+      <Alias>varth</Alias>
+      <Alias>Shmup</Alias>
+      <Alias>Scroller</Alias>
+      <Name>Varth</Name>
+    </Rom>
+    <Rom RomName="E.S.P.Rade">
+      <ScreenshotFilePath FilePath="ESPRadeScreen">ESPRadeScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>High school mind melters who fly and shoot psychbeams. What more could you want?</Description>
+      <Alias>E.S.P.</Alias>
+      <Alias>Rade</Alias>
+      <Alias>Galuda</Alias>
+      <Alias>Yusuke</Alias>
+      <Alias>esprade</Alias>
+      <Name>E.S.P.Rade</Name>
+    </Rom>
+    <Rom RomName="Elevator Action">
+      <ScreenshotFilePath FilePath="ElevatorActionScreen">ElevatorActionScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Up and down. Don't get hit!</Description>
+      <Alias>Elevator</Alias>
+      <Alias>Action</Alias>
+      <Alias>elvact</Alias>
+      <Name>Elevator Action</Name>
+    </Rom>
+    <Rom RomName="Gunbird 2">
+      <ScreenshotFilePath FilePath="Screenshots//GB2Screen">Screenshots/GB2Screen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Through gameplay cutscenes (and endings) it appears that the zany, uproarious (and at times rather adult) humor is considerably increased since the original Gunbird. The game has numerous similarities to the Parodius series.</Description>
+      <Alias>gunbird</Alias>
+      <Alias>Gunbird</Alias>
+      <Alias>gun</Alias>
+      <Alias>bird</Alias>
+      <Name>Gunbird 2</Name>
+    </Rom>
+        <Rom RomName="GigaWing">
+      <ScreenshotFilePath FilePath="Screenshots/gigawingScreen">Screenshots/gigawingScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Shmups to the rescue!</Description>
+      <Alias>Giga</Alias>
+      <Alias>giga</Alias>
+      <Alias>wing</Alias>
+      <Alias>Wing</Alias>
+      <Name>GigaWing</Name>
+    </Rom>
+    <Rom RomName="Xexex">
+      <ScreenshotFilePath FilePath="Screenshots/xexexScreen">Screenshots/xexexScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Known as Orius in North America, this is another awesome side-scolling shmup from Konami in 1991. Xexex draws on R-Type and Gradius while adding the tentacle mechanics of X-Multiply.</Description>
+      <Alias>Xexex</Alias>
+      <Alias>xexex</Alias>
+      <Name>Xexex</Name>
+    </Rom>
+    <Rom RomName="Sonic Wings Limited">
+      <ScreenshotFilePath FilePath="Screenshots/SonicWingsLimitedScreen">Screenshots/SonicWingsLimitedScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>With 10 stages (7 per game), several endings, 6 teams, 12 pilots, and 12 fighters, this 4th game in the Sonic Wings franchise kicks it old-school.</Description>
+      <Alias>Sonic</Alias>
+      <Alias>sonic</Alias>
+      <Alias>Wings</Alias>
+      <Alias>wings</Alias>
+      <Alias>Limited</Alias>
+      <Alias>limited</Alias>
+      <Name>Sonic Wings Limited</Name>
+    </Rom>
+  </System>
+  
+  
+  <System SysName="Genesis">
+    <Rom RomName="Aladdin">
+      <ScreenshotFilePath FilePath="AladdinSNESScreen">Screenshots/AladdinGenesis</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Yessir, we've had ourselves in service! You're the boss, the king, the shah! Say what you wish; it's yours, true dish! How 'bout a li'l mo' baclava?!</Description>
+      <Alias>Aladdin</Alias>
+      <Name>Aladdin</Name>
+    </Rom>
+    <Rom RomName="Sonic and Knuckles 2">
+      <ScreenshotFilePath FilePath="SandKn2Screen">SandKn2Screen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Vroooooooooom!!!!!!</Description>
+      <Alias>Sonic</Alias>
+      <Alias>Hedgehog</Alias>
+      <Alias>hedgehog</Alias>
+      <Alias>Knuckles</Alias>
+      <Name>Sonic and Knuckles 2</Name>
+    </Rom>
+    <Rom RomName="Castlevania: Bloodlines">
+      <ScreenshotFilePath />
+      <PhotoFilePath />
+      <Description>A different castlevania.</Description>
+      <Alias>Castlevania</Alias>
+      <Alias>castlevania</Alias>
+      <Alias>bloodlines</Alias>
+      <Alias>Bloodlines</Alias>
+      <Name>Castlevania: Bloodlines</Name>
+    </Rom>
+    <Rom RomName="Rocket Knight Adventures">
+      <ScreenshotFilePath FilePath="Screenshots/RocketKnightScreen">Screenshots/RocketKnightScreen</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Rockets and Knights. And some Adventures.</Description>
+      <Alias>Rocket</Alias>
+      <Alias>rocket</Alias>
+      <Alias>Knights</Alias>
+      <Alias>knights</Alias>
+      <Name>Rocket Knight Adventures</Name>
+    </Rom>
+  </System>
+  
+  
+  <System SysName="Nintendo">
+    <Rom RomName="Super Mario Brothers 3">
+      <ScreenshotFilePath>Screenshots//Super Mario Brothers 3 Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath=""></PhotoFilePath>
+      <Description>Released in 1990 for the Nintendo.  Mario battles Koopa Kids while Bowser kidnaps the Princess and brings her to his giant Dark Land castle.  Can Mario defeat Bowser and restore peace to Mushroom World? </Description>
+      <Alias>super</Alias>
+      <Alias>Super</Alias>
+      <Alias>Mario</Alias>
+      <Alias>mario</Alias>
+      <Alias>brothers</Alias>
+      <Alias>BrothersthreeThree</Alias>
+      <Alias>Brothers</Alias>
+      <Alias>three</Alias>
+      <Alias>Three</Alias>
+      <Alias>bro</Alias>
+      <Alias>Bro</Alias>
+      <Alias>Bros</Alias>
+      <Alias>bros</Alias>
+      <Name>Super Mario Brothers 3</Name>
+    </Rom>
+    <Rom RomName="Final Fantasy">
+      <ScreenshotFilePath>Screenshots/Final Fantasy Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath=""></PhotoFilePath>
+      <Description>Released by Square in 1990.  The world is in a sorry state.  To return order, you, as the Light Warriors, must defeat the four Elemental Fiends and in doing so, relight the four ORBS you carry.  Then you must travel back in time and defeat evil at its roots. </Description>
+      <Alias>final</Alias>
+      <Alias>Final</Alias>
+      <Alias>Fantasy</Alias>
+      <Alias>fantasy</Alias>
+      <Alias>1</Alias>
+      <Alias>one</Alias>
+      <Alias>One</Alias>
+      <Name>Final Fantasy</Name>
+    </Rom>
+    <Rom RomName="Legend of Zelda">
+      <ScreenshotFilePath>Screenshots//Legend of Zelda Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath=""></PhotoFilePath>
+      <Description>Released by Nintendo in 1987.  As the hero Link, you must reassemble the Triforce and find the Master Sword.  Only then will you be strogn enough to enter Gannon's Death Mountain lair where you will atempt to defeat Gannon, rescue Zelda, and secure the Triforce of Power. </Description>
+      <Alias>legend</Alias>
+      <Alias>Legend</Alias>
+      <Alias>of</Alias>
+      <Alias>Of</Alias>
+      <Alias>Zelda</Alias>
+      <Alias>zelda</Alias>
+      <Name>Legend of Zelda</Name>
+    </Rom>
+    <Rom RomName="Mega Man 3">
+      <ScreenshotFilePath>Screenshots//Mega Man 3 Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath=""></PhotoFilePath>
+      <Description>Released by Capcom in 1990.  Along with his new robot dog Rush, it's up to Mega Man to stop the Robot Masters, retrieve the crystals, and stop whoever sabotaged Dr. Light's robots.  Features Hard Man, Top Man, Snake Man, Gemini Man, Magnet Man, Shadow Man, Spark Man, and Needle Man. </Description>
+      <Alias>mega</Alias>
+      <Alias>Mega</Alias>
+      <Alias>man</Alias>
+      <Alias>Man</Alias>
+      <Alias>three</Alias>
+      <Alias>3</Alias>
+      <Alias>Three</Alias>
+      <Name>Mega Man 3</Name>
+    </Rom>
+    <Rom RomName="Mega Man 2">
+      <ScreenshotFilePath>Screenshots//Mega Man 2 Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath=""></PhotoFilePath>
+      <Description>Released by Capcom in 1989. The time, Mega Man must beat Metalman, Bubbleman, Woodman, Quickman, Heatman, Flashman, Airman, and Crashman before heading to Wily's castle to fight the insane scientist in his haunted planetarium. </Description>
+      <Alias>Mega</Alias>
+      <Alias>mega</Alias>
+      <Alias>Man</Alias>
+      <Alias>man</Alias>
+      <Alias>2</Alias>
+      <Alias>two</Alias>
+      <Alias>Two</Alias>
+      <Name>Mega Man 2</Name>
+    </Rom>
+        <Rom RomName="Bubble Bobble">
+      <ScreenshotFilePath>Screenshots//Bubble Bobble Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Bubble Bobble Screen Shot"></PhotoFilePath>
+      <Description>Released by Taito in 1988.  The Bubble Dragons Bub and Bob journey to the Cave of Monsters to rescue their girlfriends from the clutches of the evil Grumple Gromit.  If they are successful, they will unlock Super Bubble Bobble, a harder version of the original game which they must then beat to get the game's real ending. </Description>
+      <Alias>Bubble</Alias>
+      <Alias>bubble</Alias>
+      <Alias>Bobble</Alias>
+      <Alias>bobble</Alias>
+      <Name>Bubble Bobble</Name>
+    </Rom>
+    <Rom RomName="Contra">
+      <ScreenshotFilePath>Screenshots//Contra Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Contra Screen Shot"></PhotoFilePath>
+      <Description>Released in 1988 by Konami.  It's up to two elite soldiers, Bill "Mad Dog" Rizer and Lance "Scorpion" Bean, to infiltrate The Red Falcon's facilities, defeat his armies, and destroy him before he can bring his plans to fruition.  The they fail, Earth is lost. </Description>
+      <Alias>Contra</Alias>
+      <Alias>contra</Alias>
+      <Name>Contra</Name>
+    </Rom>
+    <Rom RomName="Castlevania III: Dracula's Curse">
+      <ScreenshotFilePath>Screenshots//Castlevania III Dracula's Curse Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Castlevania III Dracula's Curse Screen Shot"></PhotoFilePath>
+      <Description>Released in 1990 by Konami. In this prequel to the original Castlevania, you control Simon Belmont's great grandfather Trevor on his quest to rid the land of the vile Count Dracula. </Description>
+      <Alias>castlevania</Alias>
+      <Alias>Castlevania</Alias>
+      <Alias>3</Alias>
+      <Alias>three</Alias>
+      <Alias>Three</Alias>
+      <Alias>III</Alias>
+      <Alias>iii</Alias>
+      <Alias>dracula</Alias>
+      <Alias>Dracula</Alias>
+      <Alias>dracula's</Alias>
+      <Alias>curse</Alias>
+      <Alias>Curse</Alias>
+      <Alias>Dracula's</Alias>
+      <Name>Castlevania III: Dracula's Curse</Name>
+    </Rom>
+    <Rom RomName="Battletoads">
+      <ScreenshotFilePath>Screenshots//Battletoads Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Battletoads Screen Shot"></PhotoFilePath>
+      <Description>Released in 1991, developed by Rare and Published by Tradewest. The evil Dark Queen has kidnapped Princess Angelica and Pimple.  Battletoads Rash and Zitz to fight their way to the Dark Queen's Tower, defeat the queen, and rescue their friends. </Description>
+      <Alias>battletoads</Alias>
+      <Alias>Battle</Alias>
+      <Alias>battle</Alias>
+      <Alias>Toads</Alias>
+      <Alias>toads</Alias>
+      <Alias>toad</Alias>
+      <Alias>Toad</Alias>
+      <Name>Battletoads</Name>
+    </Rom>
+    <Rom RomName="Super Mario Brothers">
+      <ScreenshotFilePath>Screenshots//Super Mario Brothers Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Super Mario Brothers Screen Shot"></PhotoFilePath>
+      <Description>Released in 1985 by Nintendo.  Bowser, King of the Koopas has taken over the Mushroom Kingdom.  He has kidnapped Princess Toadstool and her entourage and his armies now roam the land.  Only Mario and Luigi can save the day. </Description>
+      <Alias>Super</Alias>
+      <Alias>super</Alias>
+      <Alias>Mario</Alias>
+      <Alias>mario</Alias>
+      <Alias>Brother</Alias>
+      <Alias>brother</Alias>
+      <Alias>brothers</Alias>
+      <Alias>Brothers</Alias>
+      <Alias>broBroBros</Alias>
+      <Alias>bro</Alias>
+      <Alias>Bro</Alias>
+      <Alias>Bros</Alias>
+      <Alias>bros</Alias>
+      <Name>Super Mario Brothers</Name>
+    </Rom>
+    <Rom RomName="Teenage Mutant Ninja Turtles II: The Arcade Game">
+      <ScreenshotFilePath>Screenshots//Teenage Mutant Ninja Turtles 2</ScreenshotFilePath>
+      <PhotoFilePath FilePath=""></PhotoFilePath>
+      <Description>Released in 1991, developed by Konami, published by Ultra.  Shredder and his Foot Clan are causing all sorts of trouble around NYC.  It's up to the Ninja Turtles to rescue their friends, then fight their way to the Technodrome for a final showdown with Krang and Shredder. </Description>
+      <Alias>Teenage</Alias>
+      <Alias>teenage</Alias>
+      <Alias>mutant</Alias>
+      <Alias>Mutant</Alias>
+      <Alias>Ninja</Alias>
+      <Alias>ninja</Alias>
+      <Alias>turtles</Alias>
+      <Alias>Turtles</Alias>
+      <Alias>II</Alias>
+      <Alias>ii</Alias>
+      <Alias>2</Alias>
+      <Alias>two</Alias>
+      <Alias>Two</Alias>
+      <Alias>Arcade</Alias>
+      <Alias>arcade</Alias>
+      <Alias>Game</Alias>
+      <Alias>game</Alias>
+      <Name>Teenage Mutant Ninja Turtles II: The Arcade Game</Name>
+    </Rom>
+    <Rom RomName="Metroid">
+      <ScreenshotFilePath />
+      <PhotoFilePath FilePath="//Animations//Metroid Screen Shot">Screenshots//Metroid Screen Shot</PhotoFilePath>
+      <Description>Samus Aran has been called upon by the Federation to infiltrate the pirates' base on the planet of Zebes and prevent the evil Space Pirates (who have gained control of Metroid) from harnessing the Metroid's power. </Description>
+      <Alias>Metroid</Alias>
+      <Alias>metroid</Alias>
+      <Name>Metroid</Name>
+    </Rom>
+    <Rom RomName="Mike Tyson's Punch-Out">
+      <ScreenshotFilePath>Screenshots//Mike Tyson's Punch Out Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath=""></PhotoFilePath>
+      <Description>Released in 1987 by Nintendo.  Fight your way through the three circuits of the World Virtual Boxing Association, where you will face off against ethnic opponents with bizarre mannerisms.  If you beat all comers, you will win yourself a dream match against vintage Mike Tyson. </Description>
+      <Alias>mike</Alias>
+      <Alias>Mike</Alias>
+      <Alias>Tyson</Alias>
+      <Alias>tyson</Alias>
+      <Alias>punch</Alias>
+      <Alias>Punch</Alias>
+      <Alias>Out</Alias>
+      <Alias>out</Alias>
+      <Name>Mike Tyson's Punch-Out</Name>
+    </Rom>
+    <Rom RomName="Tetris">
+      <ScreenshotFilePath>Screenshots//Tetris Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath=""></PhotoFilePath>
+      <Description>Released in 1989, developed and published by Nintendo, under license from ELORG.  Arrange falling tetrads to create lines in Nintendo's adaptation of the classic game.  </Description>
+      <Alias>tetris</Alias>
+      <Alias>Tetris</Alias>
+      <Name>Tetris</Name>
+    </Rom>
+    <Rom RomName="StarTropics">
+      <ScreenshotFilePath>Screenshots//Star Tropics Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath=""></PhotoFilePath>
+      <Description>Released in 1990 by Nintendo.  Mike Jones visits his Uncle Steve on C-Island only to find that his uncle has gone missing.  As he tries to unravel what happened to his archaeologist uncle, Mike travels around the islands of the StarTropics, solving various problems and looking for clues. </Description>
+      <Alias>star</Alias>
+      <Alias>Star</Alias>
+      <Alias>tropics</Alias>
+      <Alias>Tropics</Alias>
+      <Alias>startropics</Alias>
+      <Alias>Startropics</Alias>
+      <Name>StarTropics</Name>
+    </Rom>
+        <Rom RomName="Ninja Gaiden">
+      <ScreenshotFilePath>Screenshots//Ninja Gaiden Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Ninja Gaiden Screen Shot"></PhotoFilePath>
+      <Description>Released in 1989 by Tecmo.  Ryu uncovers a plot masterminded by The Jaquio to awaken the God of Destruction using tow idols.  Ryu struggles to keep both statues away from Jaquio and finds himself being blackmailed by a corrupt CIA director. </Description>
+      <Alias>Ninja</Alias>
+      <Alias>ninja</Alias>
+      <Alias>Gaiden</Alias>
+      <Alias>gaiden</Alias>
+      <Name>Ninja Gaiden</Name>
+    </Rom>
+    <Rom RomName="Maniac Mansion">
+      <ScreenshotFilePath>Screenshots//Maniac Mansion Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Maniac Mansion Screen Shot"></PhotoFilePath>
+      <Description>Released in 1990, developed by LucasArts and published by Jaleco.  It's up to Dave and two of his six friends to infiltrate Dr. Fred's mansion, rescue Dave's girlfriend Sandy and break the evil Meteor's control on Dr. Fred.  </Description>
+      <Alias>Maniac</Alias>
+      <Alias>maniac</Alias>
+      <Alias>Mansion</Alias>
+      <Alias>mansion</Alias>
+      <Name>Maniac Mansion</Name>
+    </Rom>
+    <Rom RomName="Crystalis">
+      <ScreenshotFilePath>Screenshots//Crystalis Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Crystalis Screen Shot"></PhotoFilePath>
+      <Description>Released in 1990 by SNK.  As the hero of prohpecy, it is up to you to assemble the legendary sword Crystalis, defeat Draygon, and destroy the Tower before it can complete its intended pupose: the complete destruction of all life.  </Description>
+      <Alias>crystalis</Alias>
+      <Alias>Crystalis</Alias>
+      <Name>Crystalis</Name>
+    </Rom>
+    <Rom RomName="Metal Gear">
+      <ScreenshotFilePath>Screenshots//Metal Gear Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Metal Gear Screen Shot"></PhotoFilePath>
+      <Description>Released in 1987, developed by Konami and published by Ultra.  FOXHOUND operative Solid Snake must fight his way through the military state of Outer Heaven and destroy the super computer that controls the enemy's new Metal Gear super weapon. </Description>
+      <Alias>Metal</Alias>
+      <Alias>metal</Alias>
+      <Alias>Gear</Alias>
+      <Alias>gear</Alias>
+      <Name>Metal Gear</Name>
+    </Rom>
+    <Rom RomName="Mega Man">
+      <ScreenshotFilePath>Screenshots//Mega Man Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Mega Man Screen Shot"></PhotoFilePath>
+      <Description>Released in 1987 by Capcom. Dr. Wily has stolen Dr. Light's Robot Masters and reprogrammed them to lead his robot armies and fulfill his deranged dreams of ruling the city.  Only Mega Man, Dr. Light's last remaining robot that doesn't totally suck, can save the day.  </Description>
+      <Alias>Mega</Alias>
+      <Alias>mega</Alias>
+      <Alias>Man</Alias>
+      <Alias>man</Alias>
+      <Name>Mega Man</Name>
+    </Rom>
+    <Rom RomName="Super Mario Brothers 2">
+      <ScreenshotFilePath>Screenshots//Super Mario Brothers 2 Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Super Mario Brothers 2 Screen Shot"></PhotoFilePath>
+      <Description>Released in 1999 by Nintendo.  Mario, Luigi, Princess Toadstool, and Toad journey to the dream land of Subcon to free it from the tyrannical rule of the evil frog king Wart and his minions.  </Description>
+      <Alias>Super</Alias>
+      <Alias>super</Alias>
+      <Alias>Mario</Alias>
+      <Alias>mario</Alias>
+      <Alias>Brothers</Alias>
+      <Alias>brothers</Alias>
+      <Alias>Brothers</Alias>
+      <Alias>Brother</Alias>
+      <Alias>brother</Alias>
+      <Alias>bro</Alias>
+      <Alias>Bro</Alias>
+      <Alias>Bros</Alias>
+      <Alias>bros</Alias>
+      <Alias>2</Alias>
+      <Alias>two</Alias>
+      <Alias>Two</Alias>
+      <Alias>II</Alias>
+      <Alias>ii</Alias>
+      <Name>Super Mario Brothers 2</Name>
+    </Rom>
+    <Rom RomName="River City Ransom">
+      <ScreenshotFilePath>Screenshots//River City Ransom Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//River City Ransom Screen Shot"></PhotoFilePath>
+      <Description>Released in 1989 by Technos.  High school students Alex and Ryan (Kunio and Riki in the Japanese version) cross River City in an attempt to rescue River City High and Ryan's girlfriend Cyndi from the clutches of a villian called "Slick". </Description>
+      <Alias>River</Alias>
+      <Alias>river</Alias>
+      <Alias>City</Alias>
+      <Alias>city</Alias>
+      <Alias>Ransom</Alias>
+      <Alias>ransom</Alias>
+      <Name>River City Ransom</Name>
+    </Rom>
+    <Rom RomName="Castlevania">
+      <ScreenshotFilePath>Screenshots/Castlevania Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Castlevania Screen Shot"></PhotoFilePath>
+      <Description>Released in 1987 by Konami. You're Simon Belmont.  One night, you randomly show up at Dracula's castle and decide to make all his sick masochistic fantasies come true.  That, or you're there to kill him and free Transylvania from his evil grip. </Description>
+      <Alias>Castlevania</Alias>
+      <Alias>castlevania</Alias>
+      <Name>Castlevania</Name>
+    </Rom>
+    <Rom RomName="Duck Hunt">
+      <ScreenshotFilePath>Screenshots//Duck Hunt Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Duck Hunt Screen Shot"></PhotoFilePath>
+      <Description>Released in 1985 by Nintendo.  Use your Nintendo Zapper to shoot ducks or cly pigeons until you miss your quota or get bored.  </Description>
+      <Alias>duck</Alias>
+      <Alias>Duck</Alias>
+      <Alias>Hunt</Alias>
+      <Alias>hunt</Alias>
+      <Name>Duck Hunt</Name>
+    </Rom>
+    <Rom RomName="Zelda II: The Adventure of Link">
+      <ScreenshotFilePath>Screenshots//Zelda 2 Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Zelda 2 Screen Shot"></PhotoFilePath>
+      <Description>Released in 1988 by Nintendo.  Link found out there is another Princess Zelda, who has been in a deep sleep for many age and only he has the power to revive her.  In order to awaken her, Link must retrieve the Triforce of Courage from the Great Palace in the Valley of Death.  </Description>
+      <Alias>Zelda</Alias>
+      <Alias>zelda</Alias>
+      <Alias>II</Alias>
+      <Alias>ii</Alias>
+      <Alias>2</Alias>
+      <Alias>two</Alias>
+      <Alias>Two</Alias>
+      <Alias>Adventure</Alias>
+      <Alias>adventure</Alias>
+      <Alias>Link</Alias>
+      <Alias>link</Alias>
+      <Name>Zelda II: The Adventure of Link</Name>
+    </Rom>
+        <Rom RomName="Shadowgate">
+      <ScreenshotFilePath>Screenshots//Shadowgate Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Shadowgate Screen Shot"></PhotoFilePath>
+      <Description>Deep within the Castle Shadowgate, the evil Warlock Lord is attempting to raise the Behemoth and unleash it upon the world.  As the last descendant of a long line of kings, only you have the strength, bravery, and puzzling skills to stop him.  </Description>
+      <Alias>Shadow</Alias>
+      <Alias>shadow</Alias>
+      <Alias>Gate</Alias>
+      <Alias>gate</Alias>
+      <Alias>shadowgate</Alias>
+      <Alias>Shadowgate</Alias>
+      <Name>Shadowgate</Name>
+    </Rom>
+    <Rom RomName="Base Wars">
+      <ScreenshotFilePath>Screenshots//Base Wars Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//Base Wars Screen Shot"></PhotoFilePath>
+      <Description>Released in 1991, developed by Konami and published by Ultra.  In a dystopic future, the sport of baseball is played by vicious fighting robots with short tempers who decide close calls with weapons rather than umpires.  </Description>
+      <Alias>Base</Alias>
+      <Alias>base</Alias>
+      <Alias>Wars</Alias>
+      <Alias>wars</Alias>
+      <Alias>basewars</Alias>
+      <Alias>Basewars</Alias>
+      <Name>Base Wars</Name>
+    </Rom>
+    <Rom RomName="DuckTales">
+      <ScreenshotFilePath>Screenshots//DuckTales Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath FilePath="//Animations//DuckTales Screen Shot"></PhotoFilePath>
+      <Description>Relased in 1989 by Capcom. Travel around the world with Uncle Scrooge and recover five legendary treasures from Transylvania, the Amazon jungle, the African mines, the Himalayas, and the moon.  </Description>
+      <Alias>Duck</Alias>
+      <Alias>duck</Alias>
+      <Alias>Tales</Alias>
+      <Alias>tales</Alias>
+      <Alias>Ducktales</Alias>
+      <Alias>ducktales</Alias>
+      <Alias>DuckTales</Alias>
+      <Name>DuckTales</Name>
+    </Rom>
+    <Rom RomName="Dragon Warrior III">
+      <ScreenshotFilePath FilePath="//Screenshots//Dragon Warrior 3 Screen Shot">Screenshots//Dragon Warrior 3 Screen Shot</ScreenshotFilePath>
+      <PhotoFilePath />
+      <Description>Released by 1991 by Enix.  Features an innovative night and day mechanic as well as about a million hours of gameplay. </Description>
+      <Alias>Dragon</Alias>
+      <Alias>dragon</Alias>
+      <Alias>Warrior</Alias>
+      <Alias>warrior</Alias>
+      <Alias>III</Alias>
+      <Alias>iii</Alias>
+      <Alias>3</Alias>
+      <Alias>Three</Alias>
+      <Alias>three</Alias>
+      <Name>Dragon Warrior III</Name>
+    </Rom>
+  </System>
+</BlackBaron>
